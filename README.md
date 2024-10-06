@@ -15,7 +15,7 @@ A website for iphone 16 made using tailwindcss, ReactJS, ThreeJS, Vite, GSAP
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Mayank534/Apple-website.git
+git clone https://github.com/itspiyush99/apple-clone-website.git
 ```
 
 
