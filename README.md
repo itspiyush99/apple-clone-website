@@ -63,12 +63,6 @@ https://github.com/user-attachments/assets/93013f6d-dd09-4b58-9df7-6b8661c447c0
   - 
 https://github.com/user-attachments/assets/dadcd2ba-7b69-4bd5-8dcf-a688e24edebf
 
-- Contact form and Testimonials
-  - Option to submit a review which is verified by product ID
-
-  ![AltText](/screenshots/4.png)
-
-  ![AltText](/screenshots/3.png)
 
 
 ## Demo video
