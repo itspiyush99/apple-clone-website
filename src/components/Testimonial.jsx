@@ -77,8 +77,8 @@ const Testimonial = () => {
                     </span> 
                      Switched from Android to iOS.
                         <p align="end">
-                        - Mayank Agrawal
-                        <p>Quant Research, Nomura</p>
+                        - Piyush Kumar
+                        <p>Data Analyst</p>
                         </p>
                   </p>
                   
@@ -92,8 +92,8 @@ const Testimonial = () => {
                     </span> 
                     and everything feels smoother with the upgraded processor.
                     <p align="end">
-                        - Sonal Agrawal
-                        <p>Consultant, BCG</p>
+                        - Vipin Chauhan
+                        <p>Founder, Chauhan Industries pvt.ltd.co</p>
                     </p>
                   </p>
                 </div>
@@ -105,8 +105,8 @@ const Testimonial = () => {
                     </span> 
                     The clarity and detail in photos are next level.
                         <p align="end">
-                        - Ajay Agrawal
-                        <p>President, Reliance</p>
+                        - Harsh Jonwal
+                        <p>Founder, Jonwal Infotech</p>
                         
                     </p>
                   </p>
